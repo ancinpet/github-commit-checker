@@ -10,7 +10,6 @@ Committee is a script that allows you to check commits on Github from CLI and we
 == Install
 To install the project, download the package:
 
-.. code-block:: python
 
     python -m pip install --extra-index-url https://test.pypi.org/pypi committee-ancinpet
 
