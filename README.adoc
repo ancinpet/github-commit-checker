@@ -1,27 +1,20 @@
-*********************
-Github Commit Checker
-*********************
+= Github Commit Checker
 
 Committee is a script that allows you to check commits on Github from CLI and web interface.
 
-Features
-========
-
+== Features
 - Check commit messages for words, regex patterns and wordlists
 - Check commit statistics
 - Check commit paths
 
-Install
-=======
-
+== Install
 To install the project, download the package:
 
 .. code-block:: python
 
     python -m pip install --extra-index-url https://test.pypi.org/pypi committee-ancinpet
 
-Documentation
-=============
+== Documentation
 
 To check out the sources and documentation, download the source from:
 
