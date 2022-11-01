@@ -1,0 +1,7 @@
+include LICENSE
+include exampleconfig.cfg
+include docs/*
+include docs/tutorials/*
+include docs/autodoc/*
+include docs/_static/*
+include docs/_templates/*
