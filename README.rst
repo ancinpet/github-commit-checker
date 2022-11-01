@@ -25,8 +25,7 @@ Documentation
 
 To check out the sources and documentation, download the source from:
 
-a) `Github <https://github.com/fitancinpet/committee>`_
-b) `TestPyPi <https://test.pypi.org/project/committee-ancinpet/#files>`_
+a) `Github <https://github.com/ancinpet/github-commit-checker/>`_
 
 Extract the sources if needed and go into the committee folder (main project folder).
 From there, to build documentations, just do:
